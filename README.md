@@ -1,4 +1,4 @@
-# 🏭 Production Line Bottleneck Detection - Hackathon Project
+# 🏭 Production Line Bottleneck Detection Using ML Models
 
 ## 📌 Problem Statement
 
