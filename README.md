@@ -143,18 +143,6 @@ Your CSV should contain these columns:
 | Defect_Rate | Float | Defect percentage (0-1) |
 | Units_Produced | Integer | Output units |
 
-## 🎯 Hackathon Tips
-
-### Winning Strategy:
-1. **Data Quality** - Clean, well-formatted input is critical
-2. **Visualization** - Clear charts communicate insights effectively
-3. **Storytelling** - Explain the "why" behind recommendations
-4. **Business Impact** - Focus on ROI and operational improvements
-5. **Confidence** - Strong presentation beats perfect accuracy
-
-### Explanation Template:
-> "Manufacturing industries face hidden bottlenecks that reduce throughput. Our system analyzes production metrics to identify inefficient stages and recommend corrective actions, enabling proactive decision-making and improving efficiency by 15-25%."
-
 ## 🔧 Troubleshooting
 
 **CSV Not Found**: Place your `dataset.csv` in the `data/` folder, or the notebook generates sample data automatically.
